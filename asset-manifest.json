@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/redux-lectures-notes/static/css/main.7acaea2f.css",
-    "main.js": "/redux-lectures-notes/static/js/main.07d3183d.js",
+    "main.css": "/redux-lectures-notes/static/css/main.aaaf48ca.css",
+    "main.js": "/redux-lectures-notes/static/js/main.f6697e2b.js",
     "index.html": "/redux-lectures-notes/index.html",
-    "main.7acaea2f.css.map": "/redux-lectures-notes/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/redux-lectures-notes/static/js/main.07d3183d.js.map"
+    "main.aaaf48ca.css.map": "/redux-lectures-notes/static/css/main.aaaf48ca.css.map",
+    "main.f6697e2b.js.map": "/redux-lectures-notes/static/js/main.f6697e2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.f6697e2b.js"
   ]
 }
